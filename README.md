@@ -74,9 +74,9 @@ lightweight high-performance load balancer written in go
 
 <img src="https://github-readme-stats.vercel.app/api?username=mayankdev-oss&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" height="160"/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" height="160"/>
+<img src="https://streak-stats.demolab.com?user=mayankdev-oss&theme=tokyonight" height="160"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankdev-oss&layout=compact&theme=tokyonight" height="160"/>
 
 </div>
 

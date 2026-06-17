@@ -1,107 +1,109 @@
 <div align="center">
 
-# hey, i'm mayank 
+# hey, i'm mayank
+
+backend • systems • infra
+
+building things that handle load, not just pass tests
+
 <img src="https://readme-typing-svg.herokuapp.com?color=7aa2f7&center=true&vCenter=true&lines=backend+systems+infra;go+developer;building+scalable+systems" />
 
-**backend • systems • infra**
-
-building things that *handle load, not just pass tests*
-
 </div>
 
 ---
 
-##  what i do
+## what i do
 
-* build high-performance backend services in **go**
+* build high-performance backend services in go
 * design systems with scalability in mind
-* explore **networking, concurrency & low-level systems**
-* break things → understand them → rebuild better
+* explore networking, concurrency and low-level systems
+* break things, understand them, rebuild better
 
 ---
 
-##  tech focus
+## tech focus
 
-<div align="center">
+<p align="center">
 
-**backend**
+backend
 go • grpc • rest • websockets
 
-**infra**
+infra
 docker • kubernetes • linux
 
-**systems**
+systems
 tcp/ip • sockets • reverse proxies
 
-</div>
+</p>
 
 ---
 
-##  featured work
+## featured work
 
-### 🔹 toralizer
+### toralizer
 
-routes linux traffic through tor using `LD_PRELOAD`
-→ low-level networking, syscalls, proxy chaining
-
----
-
-### 🔹 aapda rakshak
-
-offline disaster communication using esp32 + lora
-→ decentralized communication, reliability under constraints
+routes linux traffic through tor using LD_PRELOAD
+low-level networking, syscalls, proxy chaining
 
 ---
 
-### 🔹 go load balancer
+### aapda rakshak
+
+offline disaster communication using esp32 and lora
+focused on reliability under constrained environments
+
+---
+
+### go load balancer
 
 lightweight high-performance load balancer written in go
 
-**features**
+features
 
-* round-robin & least-connections routing
+* round-robin and least-connections routing
 * active health checks
 * reverse proxy layer
-* concurrent request handling (goroutines)
+* concurrent request handling using goroutines
 
-→ built to understand how real systems distribute traffic
+built to understand how real systems distribute traffic
 
 ---
 
-##  stats
+<br>
+
+## stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mayankdev-oss&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=mayankdev-oss&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankdev-oss&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+<br>
+
+---
+
+## currently
+
+* kubernetes internals
+* distributed system design
+* concurrency patterns in go
+
+---
+
+## reach out
+
+<p align="center">
+linkedin: (your link)
+</p>
+
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mayankdev-oss&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" height="160"/>
-
-<img src="https://streak-stats.demolab.com?user=mayankdev-oss&theme=tokyonight" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankdev-oss&layout=compact&theme=tokyonight" height="160"/>
-
-</div>
-
----
-
-##  currently
-
-* diving into **kubernetes internals**
-* learning **distributed system design**
-* writing more **concurrent systems in go**
-
----
-
-##  reach out
-
-<div align="center">
-
-linkedin: (https://www.linkedin.com/in/mynkjoshi/)
-
-</div>
-
----
-
-<div align="center">
-
-*"trying to build systems that scale without breaking"*
+"trying to build systems that scale without breaking"
 
 </div>

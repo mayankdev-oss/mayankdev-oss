@@ -92,7 +92,7 @@ built to understand how real systems distribute traffic
 ## reach out
 
 <p align="center">
-linkedin: (your link)
+linkedin: https://www.linkedin.com/in/mynkjoshi/
 </p>
 
 ---

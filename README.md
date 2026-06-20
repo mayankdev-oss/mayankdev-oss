@@ -92,7 +92,8 @@ built to understand how real systems distribute traffic
 ## reach out
 
 <p align="center">
-linkedin: https://www.linkedin.com/in/mynkjoshi/
+discord:mynk_heed
+mail:mayankjos08@gmail.com  
 </p>
 
 ---
